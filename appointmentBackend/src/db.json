@@ -1,0 +1,111 @@
+{
+  "appointments": [
+    {
+      "id": "b295403b-0e07-4a16-b27c-3a87958d36c2",
+      "title": "Réunion Marketing",
+      "type": "Physique",
+      "host": "Google",
+      "client": "@DevOps",
+      "startTime": "2024-03-30T16:00:00.000Z",
+      "endTime": "2024-03-30T10:30:00.000Z",
+      "buyers": []
+    },
+    {
+      "id": "3f8011e5-cb95-406f-8121-4c90a5c28f50",
+      "title": "Réunion Graphique",
+      "type": "Virtual",
+      "host": "Nine-Bot",
+      "client": "Viran",
+      "startTime": "2024-03-30T06:00:00.000Z",
+      "endTime": "2024-03-30T08:30:00.000Z",
+      "buyers": [],
+      "location": "Montreuil"
+    },
+    {
+      "id": "b7c0db7f-a851-4d30-b4ed-db0e8d27b989",
+      "title": "Réunion Marketing",
+      "type": "Physique",
+      "host": "HETIC",
+      "client": "@DevOps",
+      "startTime": "2024-03-30T16:00:00.000Z",
+      "endTime": "2024-03-30T10:30:00.000Z"
+    },
+    {
+      "id": "5dbdbfe8-2909-46a9-81fc-951fa821589e",
+      "title": "Réunion Digital",
+      "type": "Physique",
+      "host": "HETIC",
+      "client": "@DevOps",
+      "startTime": "2024-03-30T16:00:00.000Z",
+      "endTime": "2024-03-30T10:30:00.000Z"
+    },
+    {
+      "id": "3a05a3a2-0de4-4e48-949b-d7d14ee582a7",
+      "title": "Pôle Administration",
+      "type": "Virtual",
+      "host": "Brandon",
+      "client": "CTO",
+      "startTime": "2024-03-30T09:00:00.000Z",
+      "endTime": "2024-03-30T10:30:00.000Z"
+    },
+    {
+      "id": "02ed6a7c-b694-485a-8117-89ba06d7c875",
+      "title": "Réunion Marketing",
+      "type": "Physique",
+      "host": "HETIC",
+      "client": "@DevOps",
+      "startTime": "2024-03-30T16:00:00.000Z",
+      "endTime": "2024-03-30T10:30:00.000Z"
+    },
+    {
+      "id": "8715b40c-b012-4b20-b87f-79d79697855b",
+      "title": "Réunion Marketing",
+      "type": "Virtual",
+      "host": "HETIC",
+      "client": "@DevOps",
+      "startTime": "2024-03-30T16:00:00.000Z",
+      "endTime": "2024-03-30T10:30:00.000Z",
+      "buyers": []
+    }
+  ],
+  "buyer": [
+    {
+      "id": "0d0b82d1-f1b3-4a36-8426-36fd63b8b3b6",
+      "name": "Alfred",
+      "companyName": "yahoo"
+    },
+    {
+      "id": "dbda6bf6-1e1f-4d76-b6ed-b68fcf87293d",
+      "name": "Dupont",
+      "companyName": "Miro"
+    },
+    {
+      "id": "8fe3b9ae-afda-4e15-8a00-07c83f1f616b",
+      "name": "Damas",
+      "companyName": "Alcho Tech"
+    },
+    {
+      "id": "2b513ef9-5f0b-42b1-895a-ea283e8010ea",
+      "name": "Viran",
+      "companyName": "Moradesa"
+    }
+  ],
+  "seller": [
+    {
+      "id": "5e6d824a-708f-4355-a2cf-40739a56e648",
+      "name": "Modaresa"
+    },
+    {
+      "id": "55c1a23b-f676-43ef-be78-7b437a1fba1e",
+      "name": "Cyberlink"
+    },
+    {
+      "id": "f5050518-8edb-4fcd-bcac-3580868382e4",
+      "name": "Cyber-tech"
+    },
+    {
+      "id": "20565be5-76a4-4ab8-8fdc-835a424b509a",
+      "name": "Nine-Bot"
+    }
+  ]
+}
